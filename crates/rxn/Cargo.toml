@@ -1,0 +1,7 @@
+[package]
+name = "rxn"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rxn_ast = { path = "../rxn_ast" }
